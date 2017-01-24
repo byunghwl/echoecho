@@ -1,0 +1,10 @@
+https://kennbrodhagen.net/2016/01/31/how-to-return-html-from-aws-api-gateway-lambda/
+
+2. alexa local development example
+https://www.bignerdranch.com/blog/developing-alexa-skills-locally-with-nodejs-implementing-an-intent-with-alexa-app-and-alexa-app-server/
+
+3. Custom server for alexa
+https://jordankasper.com/building-an-amazon-alexa-skill-with-node-js/
+
+4. DNS Hosting
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app

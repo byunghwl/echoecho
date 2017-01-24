@@ -1,0 +1,20 @@
+https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.l70dz7vxl
+
+- Ubuntu Corpurse
+https://github.com/rkadlec
+
+-NLTK
+http://desilinguist.org/pdf/crossroads.pdf
+
+- NLP
+http://www.nltk.org/book/ch01.html
+
+- How to grab keyword
+   - Chunk approach
+	https://www.quora.com/What-are-some-ways-to-train-a-classifier-to-perform-Named-Entity-Recognition-using-custom-data
+
+_ NLP tutorial
+	https://www.youtube.com/watch?v=ZiKMIuYidY0\
+
+- Developing RNN
+http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
